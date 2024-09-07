@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: A Hugo website
+title: 
 theme: hugo-lithium
 ignoreFiles:
   - \.Rmd$
@@ -13,9 +13,9 @@ menu:
     - name: 
       url: /about/
     - name: 
-      url: https://github.com/rstudio/blogdown
+      url: 
     - name: 
-      url: https://twitter.com/rstudio
+      url: 
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
