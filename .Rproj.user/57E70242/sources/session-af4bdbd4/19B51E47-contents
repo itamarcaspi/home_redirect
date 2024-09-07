@@ -12,10 +12,6 @@ menu:
   main:
     - name: 
       url: /about/
-    - name: 
-      url: 
-    - name: 
-      url: 
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
